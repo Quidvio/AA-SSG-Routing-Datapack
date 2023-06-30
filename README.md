@@ -13,5 +13,5 @@ ___
 
 --- 
 
-[^1]: Excludes obvious or mobs that don't spawn with World Generation.
+[^1]: Excludes obvious or mobs that don't spawn with World Generation. See full list on the release page.
 [^2]: These blocks are visible when inside of blocks in Spectator mode.
